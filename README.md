@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @okuley
-- 👀 I’m interested in python and Django
-- 🌱 I’m currently learning pyhon
-- 💞️ I’m looking to collaborate on a web scraper project.
+- 👀 I’m interested in laravel
+- 🌱 I’m currently learning larave
+- 💞️ I’m looking to collaborate on a web development project.
 - 📫 How to reach me  skype(baffoagyening@gmail.com)
 
 <!---
