@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okuley
-- 👀 I’m interested in laravel
-- 🌱 I’m currently learning larave
+- 👀 I’m interested in laravel and spring boot
+- 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate on a web development project.
 - 📫 How to reach me  skype(baffoagyening@gmail.com)
 
