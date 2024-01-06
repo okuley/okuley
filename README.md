@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emmanuel B. Gyeninf
+- 👋 Hi, I’m Emmanuel B. Gyening
 - 👀 I’m interested in laravel ,spring boot and react
 - 🌱 I’m currently learning spring boot and react
 - 💞️ I’m looking to collaborate on a web development project.
